@@ -1,0 +1,8 @@
+C:\Users\leslie\source\repos\caja\desafio 1 numero entero\bin\Debug\desafio 1 numero entero.exe.config
+C:\Users\leslie\source\repos\caja\desafio 1 numero entero\bin\Debug\desafio 1 numero entero.exe
+C:\Users\leslie\source\repos\caja\desafio 1 numero entero\bin\Debug\desafio 1 numero entero.pdb
+C:\Users\leslie\source\repos\caja\desafio 1 numero entero\obj\Debug\desafio 1 numero entero.csproj.AssemblyReference.cache
+C:\Users\leslie\source\repos\caja\desafio 1 numero entero\obj\Debug\desafio 1 numero entero.csproj.SuggestedBindingRedirects.cache
+C:\Users\leslie\source\repos\caja\desafio 1 numero entero\obj\Debug\desafio 1 numero entero.csproj.CoreCompileInputs.cache
+C:\Users\leslie\source\repos\caja\desafio 1 numero entero\obj\Debug\desafio 1 numero entero.exe
+C:\Users\leslie\source\repos\caja\desafio 1 numero entero\obj\Debug\desafio 1 numero entero.pdb

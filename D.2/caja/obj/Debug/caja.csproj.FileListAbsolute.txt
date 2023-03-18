@@ -1,0 +1,3 @@
+C:\Users\leslie\source\repos\caja\caja\obj\Debug\caja.csproj.AssemblyReference.cache
+C:\Users\leslie\source\repos\caja\caja\obj\Debug\caja.csproj.SuggestedBindingRedirects.cache
+C:\Users\leslie\source\repos\caja\caja\obj\Debug\caja.csproj.CoreCompileInputs.cache
